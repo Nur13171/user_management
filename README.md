@@ -120,7 +120,7 @@ This is a **Laravel-based RESTful API** for user management. It provides endpoin
 ---
 
 ## **Authentication**  
-This API uses **JWT authentication**. After login, you will receive a token that should be passed in the request headers:  
+This API uses Sanctum authentication. After logging in, you will receive a token that should be passed in the request headers:
 
 ```
 Authorization: Bearer {TOKEN}
