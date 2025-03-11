@@ -1,8 +1,4 @@
-Here’s a **README.md** file for your Laravel API, including step-by-step instructions on setting up, running, and using the API.  
-
----
-
-## **Laravel API Documentation**  
+ ## **Laravel API Documentation**  
 
 ### **Table of Contents**  
 - [Introduction](#introduction)  
@@ -173,19 +169,8 @@ curl -X GET "http://127.0.0.1:8000/api/users" \
   ```sh
   composer install --no-cache
   ```
+'
 
----
 
-## **Contributing**  
-- Fork the repository  
-- Create a feature branch  
-- Submit a pull request  
 
----
 
-## **License**  
-This project is licensed under the MIT License.  
-
----
-
-This **README.md** provides clear **step-by-step** guidance for setting up and running your **Laravel API**. 🚀 Let me know if you need any modifications!
